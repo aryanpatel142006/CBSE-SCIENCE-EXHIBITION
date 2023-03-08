@@ -1,4 +1,4 @@
-# CBSE SCIENCE EXHIBITION
+# Adaptive Assessment and Inclusive Learning Program
 The project is a quiz with an adaptive evaluation system that changes its level of difficulty based on the user. The quiz adjusts the difficulty of the questions based on the participant's aptitude. People with disabilities can use **Palm controllers** and **speech recognition** to use this quiz. 
 
 
